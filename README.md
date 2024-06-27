@@ -1,6 +1,6 @@
 # Password Generator using React
 
-This project is made using vite+react
+This project is made using vite+react & tailwind
 
 To run the project:
 
